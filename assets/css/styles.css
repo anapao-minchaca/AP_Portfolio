@@ -214,14 +214,13 @@ body.dark-theme {
     color: var(--first-color);
 }
 
-/* .profile__info {
-    grid-template-columns: repeat(2, max-content);
+.profile__info {
     justify-content: center;
-    column-gap: 2.5rem;
-} */
+}
 
 .profile__info-group {
     text-align: center;
+    width: 400px;
 }
 
 .profile__info-title {
